@@ -1,7 +1,8 @@
 # Datos-Alura-store
 # Alura Store - Data Science Challenge  
 
-**Autor:** Magaly Anabel Hernández  
+**Autor:** Magaly Anabel Hernández 
+LinkedIn: https://www.linkedin.com/in/magaly-a-hernandez
 
 ## Objetivo del Proyecto  
 
@@ -39,7 +40,6 @@ Se estudiaron ubicación de ventas mediante las columnas `lat` y `lon`:
 - La Tienda 4 muestra menor densidad y penetración territorial
 - La competencia interna también favorece a las tiendas 1–3
 
-*Conclusión del análisis espacial:*  
 La Tienda 4 también es **menos competitiva geográficamente**.
 
 ## Recomendación Final  
@@ -64,12 +64,10 @@ Porque es la tienda con:
 ## Acceso al Proyecto
 
  Notebook en Google Colab o GitHub:  
- *(agrega tu enlace aquí después de subirlo)*  
+ (https://colab.research.google.com/github/anabel212018/Datos-Alura-store/blob/main/Analitica_de_datos_Alura_Store.ipynb)  
 
- Repositorio:  
- *(enlace del repositorio aquí)*  
 
-## Sobre el Trabajo  
 
-Este proyecto forma parte del **Data Science Challenge de Alura Latam** y representa una aplicación real del análisis de datos para **tomar decisiones de negocio basadas en evidencia**.
+
+
 
